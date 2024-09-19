@@ -9,7 +9,7 @@ Bu proje, **depremzedelerin kullanabileceği bir ürün yönetim sistemi** olara
 - **PostgreSQL**: Ürün verilerinin saklandığı veritabanı yönetim sistemi.
 - **Entity Framework Core**: Veritabanı işlemlerini yönetmek için kullanılan ORM (Nesne-İlişkisel Eşleme) aracı.
 #### Product List Page
-<img src="./screenshots/Product-Listesi.png" alt="Update Listesi" width="900" height="600" />
+<img src="./screenshots/Product-Listesi.png" alt="Update Listesi" width="600" height="600" />
 
 #### Product Edit Page
 
